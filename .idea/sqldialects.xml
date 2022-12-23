@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/高级/08/Assignment/02 数据库查询(错的).sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/高级/08/Assignment/02 数据库查询.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/高级/08/Assignment/02 新建数据库.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/高级/08/Assignment/changsha_result.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/高级/08/Code/01数据库.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/高级/08/Code/02数据类型.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/高级/08/Code/03插入数据.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/高级/08/Code/04案例-新建数据.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/高级/08/Code/05数据准备.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/高级/08/Code/06select查询.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/高级/08/Code/07条件查询.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/高级/08/Code/08模糊匹配.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/高级/08/Code/09排序查询.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/高级/08/Code/10分组查询.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/高级/08/Code/分组.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/高级/09/Assignment/02.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/高级/09/Assignment/02_面向对象封装.py" dialect="GenericSQL" />
+  </component>
+</project>
